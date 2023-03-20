@@ -1,0 +1,4 @@
+https://bhukosh.gsi.gov.in/Bhukosh/Pages/SessionExpired.html  for geological data about elevation and topography
+https://indiawris.gov.in/wris/#/groundWater   for collecting data and report of the districts about various water related matters
+https://jjmup.org/wq/gwd.php                   for collecting data and report about the rainfall from 2013 to 2020 and ground water level districtiwse premonsoon and post monsoon from 2013 to 2020
+https://aps.dac.gov.in/Home.aspx?ReturnUrl=%2f   For landuse statistics and crop related data and information districtwise 
